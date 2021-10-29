@@ -1,4 +1,4 @@
-## Oii Sou Luiz Guilherme Barbieri
+## Olá Sou Luiz Guilherme Barbieri
 
 - 👀 Tenho interesse em desenvolvimento Front-end
 - 📘 Estudando JavaScript
