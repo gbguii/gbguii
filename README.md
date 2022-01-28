@@ -1,7 +1,7 @@
 ## Olá Sou Luiz Guilherme Barbieri
 
 - 👀 Tenho interesse em desenvolvimento Front-end
-- 📘 Estudando JavaScript
+- 📘 Estudando JavaScript, React, Java e MySQL.
 
 ##
  <div>
