@@ -1,7 +1,7 @@
 ## Olá Sou Luiz Guilherme Barbieri
 
 - 👀 Tenho interesse em desenvolvimento Back-End.
-- 📘 Estudando Java, SQL, JavaScript e React.
+- 📘 Estudando Java, SQL, JPA, Spring Boot.
 
 ##
  <div>
